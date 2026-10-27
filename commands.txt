@@ -6,3 +6,4 @@ git switch
 git merge
 git push
 git pull
+git fetch
